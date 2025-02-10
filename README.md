@@ -35,3 +35,18 @@ A simple and interactive To-Do List App built with **HTML, CSS, and JavaScript**
 │── 📜 README.md        # Project documentation (this file)
 ```
 
+## 🏗 Future Improvements
+- [ ] Add task categories
+- [ ] Implement due dates for tasks
+- [ ] Sync tasks with a database
+
+## 🤝 Contributing
+1. **Fork** the repository
+2. **Create** a new branch
+3. **Make** changes & commit
+4. **Push** changes to your fork
+5. **Create a Pull Request**
+
+
+
+
