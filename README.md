@@ -48,6 +48,6 @@ A simple and interactive To-Do List App built with **HTML, CSS, and JavaScript**
 5. **Create a Pull Request**
 
 
-## 📜 License
+## 📜 
 
 
